@@ -3,3 +3,4 @@ _Salve, fml, esse aqui é meu livro de receitas básico que tô criando para apr
 ## _**Receitas:**_
 - _Torta de Limão_
 - _Bolo de Cenoura_
+- _Torta Salgada_
