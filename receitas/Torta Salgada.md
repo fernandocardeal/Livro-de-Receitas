@@ -1,4 +1,7 @@
 # **TORTA SALGADA**
+
+<img src = "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1765-b1007f30e29063af3d2d3f504f6911cc_medium.jpg.webp" alt = "Foto de uma torta salgada" width = "250"/>
+
 ## _**Ingredientes**_
 - 12 colheres de farinha de trigo
 - 1 copo de óleo

@@ -1,4 +1,7 @@
 # **BOLO DE CENOURA**
+
+<img src = "https://www.marolacomcarambola.com.br/wp-content/uploads/2016/05/receita-de-bolo-de-cenoura-6-1024x683.jpg" alt = "Foto de um bolo de cenoura com cobertura de chocolate" width = "250"/>
+
 ## _**Ingredientes**_
 ### _Bolo:_
 - 3 ovos

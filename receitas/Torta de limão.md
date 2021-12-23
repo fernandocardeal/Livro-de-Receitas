@@ -1,4 +1,7 @@
 # **TORTA DE LIMÃO**
+
+<img src = "https://d1uz88p17r663j.cloudfront.net/resized/40b25559b85b265e885f55ec7c1e4d04_torta-lim%C3%A3o-receitas-nestle_1200_600.jpg" alt = "Foto de uma torta de limão" width = "250"/>
+
 ## _**Ingredientes**_
 ### _Massa:_
 - 200 g de biscoito de maisena

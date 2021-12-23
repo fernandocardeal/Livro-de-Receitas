@@ -5,3 +5,6 @@ _Salve, fml, esse aqui é meu livro de receitas básico que tô criando para apr
 - _Bolo de Cenoura_
 - _Torta Salgada_
 - _Strogonoff de Frango_
+- _Lasanha de Carne Moída_
+
+_ATENÇÃO: As imagens contidas nas receitas são, meramente, ilustrativas e podem não corresponder com o resultado final do prato._

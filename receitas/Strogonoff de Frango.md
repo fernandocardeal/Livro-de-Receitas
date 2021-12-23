@@ -1,4 +1,7 @@
 # **STROGONOFF DE FRANGO**
+
+<img src = "https://www.receitasdepesos.com.br/wp-content/uploads/2020/01/strogonoff-de-carne-640x400-1.jpg.webp" alt = "Foto de strogonoff de frango" width = "250"/>
+
 ## _**Ingredientes**_
 - 2 peitos de frango picados e sem osso
 - 1 lata de creme de leite fresco
