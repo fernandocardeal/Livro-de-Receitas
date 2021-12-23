@@ -4,3 +4,4 @@ _Salve, fml, esse aqui é meu livro de receitas básico que tô criando para apr
 - _Torta de Limão_
 - _Bolo de Cenoura_
 - _Torta Salgada_
+- _Strogonoff de Frango_
