@@ -17,5 +17,6 @@ _Salve, fml, esse aqui é meu livro de receitas básico que tô criando para apr
 - _Pudim de Leite Condensado_
 - _Espaguete à Putanesca_
 - _Panqueca Americana_
+- _Brownie de Nescau_
 
 _ATENÇÃO: As imagens contidas nas receitas são, meramente, ilustrativas e podem não corresponder com o resultado final do prato._
