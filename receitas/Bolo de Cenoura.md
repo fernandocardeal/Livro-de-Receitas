@@ -15,7 +15,7 @@
 - 2 colheres cheias de chocolate em pó
 - 1 colher de manteiga
 - Um pouquinho de leite, apenas para desmanchar
-## _**Mode de Preparo**_
+## ***Modo de Preparo***
 ### _Bolo:_
 1. Bata a cenoura, os ovos e o óleo no liquidificador.
 2. Em uma vasilha à parte, misture os outros ingredientes e coloque em tabuleiro untado.
